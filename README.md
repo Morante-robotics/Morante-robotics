@@ -1,3 +1,5 @@
+![Morante · Robotics · Engineering](assets/banner.png)
+
 # Hi, I'm Morante 👋
 
 I work on **AI and data**, designing solutions and keeping an eye on what's next in AI.
@@ -19,4 +21,4 @@ These days I'm back to building robots for fun.
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/santimorante/) · [Google Scholar](http://scholar.google.es/citations?user=7_fJykAAAAAJ&hl=en)
+[YouTube](https://www.youtube.com/@morante-tech) · [LinkedIn](https://www.linkedin.com/in/santimorante/) · [Google Scholar](http://scholar.google.es/citations?user=7_fJykAAAAAJ&hl=en)
