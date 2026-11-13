@@ -12,7 +12,9 @@ These days I'm back to building robots for fun.
 
 | Repository | What it is |
 |---|---|
-| [robotics-capstones](https://github.com/Morante-robotics/robotics-capstones) | Build log of the robots I make while learning: code, circuits, designs and videos |
+| [robotics-capstones](https://github.com/Morante-robotics/robotics-capstones) | My path to learning robotics, one robot at a time: the list of capstones |
+| [spider-bot-replica](https://github.com/Morante-robotics/spider-bot-replica) | Spider-Bot replica, 8 legs driven by one motor, 3D-printed: build log, CAD in code, design checks (in progress) |
+| [arduino-starter-kit](https://github.com/Morante-robotics/arduino-starter-kit) | Arduino Starter Kit R4: the Projects Book projects with my own code, circuits and videos |
 | [PoliticAI](https://github.com/Morante-robotics/PoliticAI) | Analysis of political and electoral data from Spain and the world (in Spanish) |
 | [dissimilarity-mapping-filtering](https://github.com/Morante-robotics/dissimilarity-mapping-filtering) | Unsupervised anomaly detection and demonstration selection (DMF), in Python and PySpark |
 | [machine-learning-knowledge-pills](https://github.com/Morante-robotics/machine-learning-knowledge-pills) | Short tutorials and talks on practical machine learning and data science |
